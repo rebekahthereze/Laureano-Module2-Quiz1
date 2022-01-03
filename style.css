@@ -100,3 +100,11 @@ img {
     color: #811112;
     visibility: hidden;
 }
+
+.name {
+    display: flex;
+    justify-content: right;
+    padding-bottom: 20px;
+    color: #811112;
+    font-family: 'M PLUS 1 Code', sans-serif;
+}

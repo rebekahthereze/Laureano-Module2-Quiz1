@@ -51,7 +51,7 @@ let heraclitusQuote =
     '"Time is a game played beautifully by children." -Heraclitus',
     '"Nothing endures but change." -Heraclitus',
     '"Much learning does not teach understanding." -Heraclitus',
-    'It is in changing that we find purpose." -Heraclitus'
+    '"It is in changing that we find purpose." -Heraclitus'
 ]
 
 aristotle.onclick = function() {
