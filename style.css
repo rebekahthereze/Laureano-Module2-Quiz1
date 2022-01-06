@@ -71,8 +71,6 @@ img {
 }
 
 .getQuote {
-    display: flex;
-    justify-content: center;
     align-self: center;
     border-radius: 50px;
     margin: 60px;
@@ -98,13 +96,6 @@ img {
     font-family: 'Shrikhand', cursive;
     font-size: 50px;
     color: #811112;
+    text-align: center;
     visibility: hidden;
-}
-
-.name {
-    display: flex;
-    justify-content: right;
-    padding-bottom: 20px;
-    color: #811112;
-    font-family: 'M PLUS 1 Code', sans-serif;
 }
